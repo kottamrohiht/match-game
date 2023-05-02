@@ -1,0 +1,21 @@
+.TabItem {
+  color: white;
+}
+
+.tab-button {
+  outline: none;
+  background-color: transparent;
+  color: white;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  margin-right: 10px;
+  border: 0px;
+  cursor: pointer;
+}
+
+.active-item {
+  border-bottom: 1px solid #fec653;
+  color: #fec653;
+  padding-bottom: 5px;
+}
